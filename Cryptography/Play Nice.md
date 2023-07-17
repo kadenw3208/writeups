@@ -1,6 +1,6 @@
 # Play Nice
-Category: Crypto
-Points: 110
+Category: Crypto <br>
+Points: 110 <br>
 Author: Kaden Wu
 ## Problem Description
 Not all ancient ciphers were so bad... The flag is not in standard format. `nc mercury.picoctf.net 40742`  [playfair.py](https://mercury.picoctf.net/static/283dcc58048f3a6ac83b4c11ec696954/playfair.py)
