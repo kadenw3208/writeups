@@ -1,7 +1,7 @@
 # john_pollard
 Category: Crypto
-Points: 500
-Author: Kaden Wu
+<br>Points: 500
+<br>Author: Kaden Wu
 ## Problem Description
 Sometimes RSA [certificates](https://jupiter.challenges.picoctf.org/static/c882787a19ed5d627eea50f318d87ac5/cert) are breakable
 ## Writeup
