@@ -1,5 +1,5 @@
 # Bbbbloat
-Category: Forensics
+Category: Reverse Engineering <br>
 Points: 300
 ## Problem Description
 Can you get the flag?Reverse engineer this  [binary](https://artifacts.picoctf.net/c/47/bbbbloat).
