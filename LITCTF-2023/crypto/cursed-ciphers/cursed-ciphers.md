@@ -43,7 +43,7 @@ As a confirmation of our hypothesis, we can see that the A and B values for the 
 The first thing that we notice is that in the first part, there should be a `i` instead of a `b` at position 1.  (Note: In computer science, it is typical to use indices that start at 0 instead of 1). Let's shift back to the key for this: `21 17 | 1 | 1`. It is at position 1! Hmm, we may be on to something here!
 
 ### ❗❗❗❗❗❗IMPORTANT❗❗❗❗❗❗
-**In order to solve the question, we nee to realize that the indices of the cursed characters are given in the key section.**
+**In order to solve the question, we need to realize that the indices of the cursed characters are given in the key section.**
 ### ❗❗❗❗❗❗IMPORTANT❗❗❗❗❗❗
 Let's look at the third flag. By analysis, we also realize that the words inside the curly braces (`{}`) should spell out to be `affine_my_beloved` (with varying capitalization). So, we note down the index of the characters that are wrong, or **cursed** (🤔🤔🤔).  First decoding the `Affine Cipher` gives `iLTcTF{AFFind_MY_BdiOVeD}`.  The third row of the keys gives `11 1 | 2 | 12 18`.  The characters at positions `12` and `18` are both `d`. Now we are pretty sure of our pattern.<br><br>
 
