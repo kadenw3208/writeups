@@ -63,4 +63,4 @@ Our love will echo for endless years
 Huh, it seems like this line in the verse wasn't meant to be put here. 
 `}1l0rkc1r_7xen_3ht_3k4m_4nn0g_7pgt4hc{FTCTIL`<br>
 Seeing the characters `FTCTIL`, we realize that this is `LITCTF` backwards! We now think of using a [line reverser](https://onlinetexttools.com/reverse-text) to find the flag. 
-<br>`LITCTF{ch4tgp7_g0nn4_m4k3_th3_nex7_r1ckr0l1}`
+<br>Flag: `LITCTF{ch4tgp7_g0nn4_m4k3_th3_nex7_r1ckr0l1}`
