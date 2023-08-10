@@ -68,4 +68,4 @@ The character at position 22 is d and should be e
 ```
 After doing this we get the flag `LITCTF{aFfiNe_My_BeloveD}`. However, this flag doesn't work! However, most flags include numbers to make the flag complicated, so we can replace the cursed characters with numbers representing the character, and this flag works.
 <br>
-**Flag: **`LITCTF{aFf1Ne_My_B3l0v3D}`
+**Flag: ** `LITCTF{aFf1Ne_My_B3l0v3D}`
