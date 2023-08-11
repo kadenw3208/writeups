@@ -1,1 +1,0 @@
-# LITCTF 2023 Challs
